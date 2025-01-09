@@ -1,0 +1,1 @@
+SELECT 800+6 AS nb;
